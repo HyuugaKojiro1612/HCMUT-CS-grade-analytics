@@ -1,4 +1,4 @@
-# hcmut-CSE-score
+# HCMUT-CS-grade
 
 Dữ liệu được lấy từ 2 file diem_f1_md.xlsx và diem_f2_md.xlsx, đối tượng khai thác
 là điểm các môn học của ngành khoa học máy tính của các sinh viên máy tính, từ năm
