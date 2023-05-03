@@ -1,5 +1,10 @@
 # HCMUT-CS-grade
 
-Dữ liệu được lấy từ 2 file diem_f1_md.xlsx và diem_f2_md.xlsx, đối tượng khai thác là điểm các môn học của ngành khoa học máy tính của các sinh viên máy tính, từ năm 2015 đến năm 2017. Tập dữ liệu này được phân tích nhằm 2 mục đích:
-- Khám phá số lượng sinh viên đã học đủ tất cả các môn học cơ bản (cơ sở ngành/nhóm ngành) của 3 năm đầu tiên (theo chương trình đào tạo),
-- Dự đoán sinh viên sẽ chọn môn học tự chọn nào (Nhập môn AI, Đồ họa máy tính, Mật mã an ninh mạng) dựa trên điểm số các môn học cơ bản của sinh viên đó.
+1. Dataset: grades in compulsory courses of CS students from 2015 to 2017:
+- first-year: Nhập môn điện toán (NMDT), Cấu trúc rời rạc cho KHMT (CTRR), Hệ thống số (HTS), Kỹ thuật lập trình (KTLT),
+- second-year: Cấu trúc dữ liệu và giải thuật (CTDLGT), Kiến trúc máy tính (KTMT), Lập trình hướng đối tượng (LTHDT), Mô hình hóa toán học (MHH), Hệ điều hành (HDH), Hệ cơ sở dữ liệu (HCSDL),
+- third-year: Công nghệ phần mềm (CNPM), Mạng máy tính (MMT), Những nguyên lý của ngôn ngữ lập trình (NLNNLT).
+
+2. Objectives:
+- Discover the students who completed all the compulsory courses after the third year,
+- Predict the optional courses a student may choose given their grades in compulsory courses. Optional courses includes Nhập môn trí tuệ nhân tạo (NMAI), Đồ họa máy tính (DHMT), Mật mã và an ninh mạng (MMANM). 
