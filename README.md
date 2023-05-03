@@ -5,7 +5,7 @@
 - second-year: Cấu trúc dữ liệu và giải thuật (CTDLGT), Kiến trúc máy tính (KTMT), Lập trình hướng đối tượng (LTHDT), Mô hình hóa toán học (MHH), Hệ điều hành (HDH), Hệ cơ sở dữ liệu (HCSDL),
 - third-year: Công nghệ phần mềm (CNPM), Mạng máy tính (MMT), Những nguyên lý của ngôn ngữ lập trình (NLNNLT).
 
-The above dataset is created from a private dataset which contains all HCMUT students' grades which cannot be public.
+The above dataset is created from a private dataset which contains all HCMUT students' grades, so the latter cannot be public.
 
 2. Objectives:
 - Discover the students who completed all the compulsory courses after the third year,
